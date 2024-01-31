@@ -1,0 +1,2 @@
+# Blog_turismo_Rsponsive
+turismoResponsive
